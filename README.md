@@ -1,5 +1,7 @@
 # href.js
 
+[0.1.1](https://github.com/tobiasroeder/href-js/releases/tag/0.1.1)
+
 ## Installation
 ### Basic
 Include this before the `</body>`
