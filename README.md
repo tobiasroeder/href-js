@@ -1,9 +1,15 @@
 # href.js
 
-### Include this before the `</body>`
+## Installation
+### Basic
+Include this before the `</body>`
 ``` html
 <script src="https://unpkg.com/href-js@0.1.1/href.min.js"></script>
 ```
+or
+### Using package manager
+Install `href-js` package
+- `npm i href-js`
 
 ---
 ### Syntax
