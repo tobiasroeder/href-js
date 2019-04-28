@@ -5,10 +5,10 @@
 Documentation coming soon!
 
 ### Syntax
-Only add into an element tag `data-href` and it works.
+Only add into an element tag `data-href` and `data-target`, thats it.
 
 ---
 ### Example
 ``` html
-<button data-href="http://example.com">Hello World</button>
+<button data-href="http://example.com" data-target="_blank">Hello World</button>
 ```
